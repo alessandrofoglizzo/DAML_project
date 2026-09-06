@@ -1,0 +1,26 @@
+# Requirements for the project: Measurement of the Higgs Boson in the Diphoton Channel
+# Install with: pip install -r requirements.txt
+
+numpy==1.26.4
+scipy==1.11.4
+tensorflow==2.14.1
+keras==2.14.0
+
+awkward
+awkward-pandas
+awkward_cpp
+uproot
+vector
+atlasopenmagic
+
+scikit-learn
+pandas
+matplotlib
+seaborn
+lmfit
+
+fsspec
+fsspec_xrootd
+xrootd
+requests
+tqdm
